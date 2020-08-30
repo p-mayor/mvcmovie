@@ -36,3 +36,4 @@ C:\Users\StepPepper\Documents\code\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
 C:\Users\StepPepper\Documents\code\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
 C:\Users\StepPepper\Documents\code\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
 C:\Users\StepPepper\Documents\code\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\StepPepper\Documents\code\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
