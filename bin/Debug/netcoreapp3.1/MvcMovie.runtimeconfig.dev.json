@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\StepPepper\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\StepPepper\\.nuget\\packages"
+    ]
+  }
+}
